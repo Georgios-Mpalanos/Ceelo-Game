@@ -1,5 +1,3 @@
-Copyright 2023, George Mpalanos, All rights reserved.
-
 #Number of players
 num_players = int(input("Number of players (between 2 and 6): "))
 if num_players>6 or num_players<2:
